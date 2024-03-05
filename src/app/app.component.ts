@@ -36,6 +36,15 @@ export class AppComponent {
       availableUnits: 1,
       wifi: false,
       laundry: false,
+    },
+    {
+      name: "New Farm",
+      city: "Salt",
+      state: "jordan",
+      photo: "../assets/housing-3.jpg",
+      availableUnits: 1,
+      wifi: true,
+      laundry: true,
     }
   ];
 

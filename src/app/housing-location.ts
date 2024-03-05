@@ -6,4 +6,4 @@ export interface HousingLocation {
     availableUnits: number,
     wifi: boolean,
     laundry: boolean,
-}
+  }
